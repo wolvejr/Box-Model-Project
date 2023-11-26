@@ -1,0 +1,30 @@
+
+html{
+  /* white text & black background */
+  background-color: black;
+  color: white;
+}
+img{
+  border: 5px solid white;
+  margin: 5% 5% 0% 5%;
+  width: 70%;
+}
+h1{
+  /*  h1 text with Libre Baskerville Font from Google Fonts */
+  font-family: "Libre Baskerville";
+  /*  h1 uppercase with CSS with text-transform property */
+  text-transform: uppercase;
+}
+div{
+  text-align: center;
+}
+#inner{
+  border: 5px solid white;
+  margin: 5% 5% 0% 5%;
+}
+#outer{
+    width: 65%;
+    margin: 5%;
+    margin-left: 17.5%;
+    
+}
